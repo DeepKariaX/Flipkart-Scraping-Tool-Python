@@ -7,9 +7,9 @@ Make sure that you have the following:
 -  It requires different libraries so be sure to installthem before running the tool
 -  An environment to work in - something like Jupyter or Spyder
 
-## Excel File:
+## Excel (Product Details):
 <p align="left">
-  <a class="image fit"><b>Excel of Product</b>
-  	<img src="https://github.com/DeepKariaX/DASS-Prediction-IBM-SPSS-Modeler/blob/main/Prediction/DASS_Prediction_Logistic_Regression.png" alt="">
+  <a class="image fit">
+  	<img src="https://github.com/DeepKariaX/Flipkart-Scraping-Tool-Python/blob/main/captures/Excel%20File%20Structure.png" alt="">
   </a>
 </p>
