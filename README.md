@@ -22,7 +22,10 @@
 ## About The Project
 
 ![Product Name Screen Shot][product-screenshot-1]
+<br />
 ![Product Name Screen Shot][product-screenshot-2]
+<br />
+![Product Name Screen Shot][product-screenshot-3]
 
 A flipkart web scraping tool which accepts URL and with the help of BeautifulSoup it completely scraps the product page and displays it also a excel sheet can also be generated using this tool.
 
@@ -69,13 +72,6 @@ Make sure that you have the following:
     python Flipkart Web Scraping.py
     ```
 
-## Excel (Product Details):
-<p align="left">
-  <a class="image fit">
-  	<img src="https://github.com/DeepKariaX/Flipkart-Scraping-Tool-Python/blob/main/captures/Excel%20File%20Structure.png" alt="">
-  </a>
-</p>
-
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -99,3 +95,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [product-screenshot-1]: Media/Scraping_Product_1.png
 [product-screenshot-2]: Media/Scraping_Product_2.png
+[product-screenshot-3]: Media/Excel_File_Structure.png
